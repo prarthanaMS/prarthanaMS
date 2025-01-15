@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
 
 <h1>Hi 👋, I'm Senuri Prarthana</h1>
 
@@ -6,9 +9,11 @@
 <h2> Connect with me:</h2>
 <p>
   <a href="https://www.linkedin.com/in/senuri-prarthana-73a56b340" target="_blank" style="margin-right: 15px;">
-    <i class="fab fa-linkedin fa-2x"></i>
+    <i class="fab fa-linkedin fa-2x"></i> LinkedIn
   </a>
+</p>
+<p>
   <a href="https://twitter.com/your_twitter_handle" target="_blank">
-    <i class="fab fa-twitter fa-2x"></i>
+    <i class="fab fa-twitter fa-2x"></i> Twitter
   </a>
 </p>
