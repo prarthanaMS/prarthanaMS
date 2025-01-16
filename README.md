@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senuri Prarthana</h1>
-- 🌱 I’m currently learning **at LNBTI Japanese IT University**
+- 🌱 I’m currently learning at LNBTI Japanese IT University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
