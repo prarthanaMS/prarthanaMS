@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Senuri Prarthana</h1>
 <h3 align="center">🌱 Currently learning at LNBTI Japanese IT University</h3>
+
 <h3 align="center">🎓 Undergraduate | BSc (Hons) in Computer Systems & Information Technology | University of Greenwich</h3>
 
 ---
