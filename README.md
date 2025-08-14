@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Prarthana</h1>
-<h3 align="center">First-year BSc (Hons) in Computer Systems & Information Technology student at the University of Greenwich (via LNBTI Japanese IT University)</h3>
+<h1 align="center">👋 Hi, I'm Prarthana</h1>
+<h3 align="center">🎓 BSc (Hons) in Computer Systems & Information Technology student at the University of Greenwich (via LNBTI Japanese IT University)</h3>
+<p align="center">
+</p>
 
 ---
 
@@ -30,7 +32,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maze/maze-original.svg" alt="Maze" width="40" height="40"/>
 </p>
 
 ---
