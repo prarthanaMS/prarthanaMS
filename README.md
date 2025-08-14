@@ -1,4 +1,4 @@
-![Workstation Animation](https://github.com/prarthanaMS/prarthanaMS/blob/main/animation.gif?raw=true)
+
 
 <h1 align="center">👋 Hi, I'm Prarthana</h1>
 <h3 align="center">🎓 BSc (Hons) in Computer Systems & Information Technology student at the University of Greenwich (via LNBTI Japanese IT University)</h3>
@@ -34,6 +34,31 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>  
+  <strong>HTML</strong> – 12.48%
+  <br><br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>  
+  <strong>CSS</strong> – 11.34%
+  <br><br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
+  <strong>JavaScript</strong> – 44.07%
+  <br><br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
+  <strong>Java</strong> – 16.54%
+  <br><br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+  <strong>Python</strong> – (Add % if you want)
 </p>
 
 ---
