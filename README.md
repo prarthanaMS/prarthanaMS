@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Prarthana</h1>
 <h3 align="center">🎓 BSc (Hons) in Computer Systems & Information Technology student at the University of Greenwich (via LNBTI Japanese IT University)</h3>
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prarthanams&label=Profile%20views&color=ffffff&style=flat" alt="prarthanams" />
-</p>
 
 <p align="left">
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
+</p>
+
+
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prarthanams&label=Profile%20views&color=ffffff&style=flat" alt="prarthanams" />
 </p>
 
 ---
@@ -18,6 +21,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=prarthanams&theme=gruvbox&column=7" alt="prarthanams" />
   </a>
 </p>
+
+
+
+
 
 <p align="center">
   <a href="https://twitter.com/prarthanams" target="_blank">
