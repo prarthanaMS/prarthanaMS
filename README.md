@@ -7,7 +7,8 @@
 
 ---
 
-![My Animation](https://github.com/prarthanaMS/prarthanaMS/raw/main/00.gif)
+![My Animation](https://github.com/prarthanaMS/prarthanaMS/raw/main/images/00.gif)
+
 
 ---
 
