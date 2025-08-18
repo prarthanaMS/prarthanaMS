@@ -1,6 +1,8 @@
-<h1 align="center">👋 Hi, I'm Prarthana</h1>
-<h3 align="center">🎓 BSc (Hons) in Computer Systems & Information Technology student at the University of Greenwich (via LNBTI Japanese IT University)</h3
-<img align="right" alt="Coding" width="480" src="https://giffiles.alphacoders.com/215/215911.gif">                                                                                                                                               
+<h1 align="center">Hi 👋, I'm Prarthana</h1>
+<h3 align="center">🎓 BSc (Hons) in Computer Systems & Information Technology student at the University of Greenwich (via LNBTI Japanese IT University)</h3>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prarthanams&label=Profile%20views&color=ffffff&style=flat" alt="prarthanams" />
 </p>
@@ -22,7 +24,6 @@
 
 ---
 
-
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -42,20 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PrarthanaMS&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrarthanaMS&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-
-<p align="center left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prarthanams&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
