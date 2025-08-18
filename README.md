@@ -75,18 +75,14 @@
     <!-- WakaTime Stats -->
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&layout=compact&theme=dark&hide=Other&title_color=00FF00&bg_color=000000&text_color=DEDEDE&border_color=000000">
 
-  </div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&layout=compact&theme=dark&hide=Other&title_color=00FF00&bg_color=000000&text_color=DEDEDE&border_color=000000">
-    
-    <a href="https://github.com/K1rsN7/K1rsN7">
-        <img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=000000&title_color=00FF00&color=00FF00&line=00FF00&point=00FF00&hide_border=true&custom_title=Contribution⠀Graph" />
-    </a>
 
-    <img src="https://wakatime.com/share/@K1rsN7/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
-</div>
-
-
+ 
+ </div>
+  <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
+  <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <img src="https://wakatime.com/share/@K1rsN7/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
+  </div>              
 
 
 
