@@ -2,7 +2,7 @@
 <h3 align="center">🎓 BSc (Hons) in Computer Systems & Information Technology student at the University of Greenwich (via LNBTI Japanese IT University)</h3>
 
 ---
-<p align="center">
+<p align="left">
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
 </p>
 
