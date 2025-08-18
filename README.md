@@ -14,7 +14,7 @@
 </p>
 
 <details open>
-<summary align="center"><h2 ><img alt="GIF" src="./Image//handshake2.gif" width="25px"> Social Media </h2></summary>
+<summary align="center"><h2 ><img alt="GIF" src=".gif" width="25px"> Social Media </h2></summary>
 <div id="badges" align="center">
     <a href="https://linkedin.com/in/prarthanams" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>  
