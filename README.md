@@ -2,6 +2,11 @@
 <h3 align="center">🎓 BSc (Hons) in Computer Systems & Information Technology student at the University of Greenwich (via LNBTI Japanese IT University)</h3>
 
 ---
+<p align="center">
+  <img src="YOUR_GIF_URL_HERE" alt="Animation" width="300"/>
+</p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prarthanams&label=Profile%20views&color=ffffff&style=flat" alt="prarthanams" />
