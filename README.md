@@ -15,10 +15,10 @@
 
 <p align="center">
   <a href="https://twitter.com/prarthanams" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/prarthanams?color=black&logo=twitter&style=for-the-badge" alt="prarthanams" />
+    <img src="https://komarev.com/ghpvc/?username=prarthanams&label=Twitter%20Profile%20Views&color=0e75b6&style=flat" alt="Twitter Profile Views" />
   </a>
   <a href="https://linkedin.com/in/prarthanams" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://komarev.com/ghpvc/?username=prarthanams&label=LinkedIn%20Profile%20Views&color=0e75b6&style=flat" alt="LinkedIn Profile Views" />
   </a>
 </p>
 
@@ -54,3 +54,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prarthanams&theme=dark" alt="Streak Stats" />
 </p>
+
