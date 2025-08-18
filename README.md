@@ -49,29 +49,20 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PrarthanaMS&theme=onedark" alt="Trophies" />
-</p>
-
----
-
 ## 🔥 Streak Stats
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrarthanaMS&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 
-
-
 <p align="center left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prarthanams&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prarthanams&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prarthanams&theme=dark" alt="Streak Stats" />
 </p>
