@@ -7,6 +7,12 @@
 
 ---
 
+![My Animation](https://github.com/prarthanaMS/prarthanaMS/raw/main/00.gif)
+
+---
+
+
+
 ## 📫 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/senuri-prarthana-73a56b340" target="_blank">
