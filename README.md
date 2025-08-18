@@ -7,7 +7,8 @@
 
 ---
 
-![My Animation](https://github.com/prarthanaMS/prarthanaMS/raw/main/images/00.gif)
+<img align="right" alt="Coding" width="480" src="https://giffiles.alphacoders.com/215/215911.gif">
+
 
 
 ---
