@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="YOUR_GIF_URL_HERE" alt="Animation" width="300"/>
+  <img src="https://gifs.alphacoders.com/gifs/view/215911" alt="Animation" width="300"/>
 </p>
 
 <p align="center">
