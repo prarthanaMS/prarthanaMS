@@ -1,32 +1,49 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=26&pause=1000&width=1000&lines=Hi,+%F0%9F%91%8B+I%E2%80%99m+Prarthana;🎓+BSc+(Hons)+in+Computer+Systems+%26+Information+Technology+student+at+the+University+of+Greenwich+via+LNBTI+Japanese+IT+University;UI/UX+Design+%26+Software+Development+Enthusiast;Always+Learning+%F0%9F%93%9A;Passionate+about+building+user-friendly+applications)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Prarthana</h1>
+<h3 align="center">🎓 BSc (Hons) in Computer Systems & Information Technology student at the University of Greenwich (via LNBTI Japanese IT University)</h3>
 
 ---
-
 <p align="center">
   <img src="YOUR_GIF_URL_HERE" alt="Animation" width="300"/>
 </p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prarthanams&label=Profile%20views&color=ffffff&style=flat" alt="prarthanams" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prarthanams&theme=gruvbox&column=7" alt="prarthanams" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/prarthanams" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=prarthanams&label=Twitter%20Profile%20Views&color=0e75b6&style=flat" alt="Twitter Profile Views" />
+  </a>
+  <a href="https://linkedin.com/in/prarthanams" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=prarthanams&label=LinkedIn%20Profile%20Views&color=0e75b6&style=flat" alt="LinkedIn Profile Views" />
+  </a>
+</p>
+
 ---
 
-<h3 align="center">Languages & Tools:</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="40" height="40"/>
+<h3 align="left">Languages & Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="40" height="40"/>
 </p>
 
 ---
@@ -42,23 +59,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prarthanams&theme=dark" alt="Streak Stats" />
 </p>
-
----
-
-<h1 align="center">Connect With Me</h1>
-
-<p align="center">
-  <a href="https://twitter.com/prarthanams" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="40" height="40" />
-  </a>
-  <a href="https://linkedin.com/in/prarthanams" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" />
-  </a>
-  <a href="https://instagram.com/prarthanams" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" />
-  </a>
-  <a href="https://github.com/prarthanams" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" />
-  </a>
-</p>
-
