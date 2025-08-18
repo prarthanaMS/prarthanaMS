@@ -13,22 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=prarthanams&label=Profile%20views&color=84C2C0&style=flat" alt="prarthanams" />
 </p>
 
----
-
-<details open>
-    <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> About Me </h2></summary>
-    <p align="center">I am a Software Engineering student and aspiring UI/UX Designer <img src="./Image/cat-coder.gif" width="30px"></p>
-    <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
-    <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" /> More details: </h3>
-    <ul>
-        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; Passionate about technology and UI/UX design.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp; Exploring software engineering and web development.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; Currently learning HTML, CSS, JS, Python, and React.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I enjoy creativity, design, and working on projects.</a></li><br>
-    </ul>
-<br>
-</details>
-
 <details open>
 <summary align="center"><h2 ><img alt="GIF" src="./Image//handshake2.gif" width="25px"> Social Media </h2></summary>
 <div id="badges" align="center">
@@ -80,3 +64,4 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
+
