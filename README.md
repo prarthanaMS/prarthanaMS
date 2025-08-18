@@ -1,13 +1,11 @@
 
 
 <h1 align="center">👋 Hi, I'm Prarthana</h1>
-<h3 align="center">🎓 BSc (Hons) in Computer Systems & Information Technology student at the University of Greenwich (via LNBTI Japanese IT University)</h3>
+<h3 align="center">🎓 BSc (Hons) in Computer Systems & Information Technology student at the University of Greenwich (via LNBTI Japanese IT University)</h3
+<img align="right" alt="Coding" width="480" src="https://giffiles.alphacoders.com/215/215911.gif">                                                                                                                                               
 <p align="center">
 </p>
 
----
-
-<img align="right" alt="Coding" width="480" src="https://giffiles.alphacoders.com/215/215911.gif">
 
 
 
