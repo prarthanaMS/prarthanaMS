@@ -18,10 +18,6 @@
 
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
-
-<br><br><br> <!-- මෙහි gap වැඩි කරන්න පුළුවන් -->
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=prarthanams&theme=gruvbox&column=7" alt="prarthanams" />
