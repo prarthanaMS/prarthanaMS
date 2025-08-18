@@ -1,7 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=031926&height=70&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=031926&height=70&section=header"/>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=2A4352center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello!;" alt="Typing SVG" /></a>
-</div> 
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=000000&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello!;" alt="Typing SVG" />
+    </a>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Prarthana</h1>
 <h3 align="center">🎓 BSc (Hons) in Computer Systems & Information Technology student at the University of Greenwich (via LNBTI Japanese IT University)</h3>
@@ -66,3 +69,15 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prarthanams&theme=dark" alt="Streak Stats" />
 </p>
+
+
+<br>
+</details>
+<div align="center">
+    <br>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again!;Have+a+good+day!" alt="Typing SVG" />
+    </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
