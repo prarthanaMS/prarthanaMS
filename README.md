@@ -12,11 +12,6 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prarthanams&label=Profile%20views&color=ffffff&style=flat" alt="prarthanams" />
-</p>
-
-
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
